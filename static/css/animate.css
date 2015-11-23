@@ -149,9 +149,9 @@ Copyright (c) 2015 Daniel Eden
     transform: scale3d(1, 1, 1);
   }
 
-  50% {
+  20% {
     -webkit-transform: scale3d(1.05, 1.05, 1.05);
-    transform: scale3d(1.2, 1.2, 1.2);
+    transform: scale3d(1.1, 1.1, 1.1);
   }
 
   to {
