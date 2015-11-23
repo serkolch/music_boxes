@@ -18,16 +18,17 @@ body {
     width: 100px;
     height: 100px;
     margin: 5px;
+    text-align: center;
 }
 
-h1 {
-    text-align: center;
-    vertical-align: center;
+span {
     color: rgba(255,255,255,0.25);
     font-size: 50px;
+    display: block;
+    size: 100px;
     font-family: helvetica;
-    margin-top: 20.666px;
-    height: 100%;
+    font-weight: bolder;
+    line-height: 100px;
 }
 
 /*These are the styles that individually color our boxes and also determine the hover and active states*/
